@@ -4,3 +4,4 @@
 .python-version
 config.toml
 secrets.toml
+Pipfile.lock
